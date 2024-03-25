@@ -13,6 +13,7 @@ class UpperCaseReader extends BufferedReader {
         wrapper = reader;
     }
 
+    @Override
     public String readLine() {
         String temp = null;
         try {

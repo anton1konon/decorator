@@ -1,6 +1,6 @@
 package notification;
 
-public class DecoratorClient {
+public class TestClient {
 
     public static void main(String[] args) {
 
